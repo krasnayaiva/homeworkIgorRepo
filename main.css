@@ -8,7 +8,7 @@ body{
     background-color: aqua;
 }
 
-section{
+section, button{
     margin: auto;
     border-radius: 30px;
     box-shadow: darkblue 10px 10px 10px 10px;
@@ -20,7 +20,7 @@ section{
     transition: 0.5s;
 }
 
-section:hover{
+section:hover, button:hover{
     background-color: blue;
     color: white;
 }
