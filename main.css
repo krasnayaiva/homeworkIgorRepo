@@ -24,4 +24,5 @@ section:hover, button:hover{
     background-color: blue;
     color: white;
     padding: 2%;
+    height: 100px;
 }
